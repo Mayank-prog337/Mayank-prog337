@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mayank-prog337
 - 👀 I’m interested in programming  
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning PHP+ReactJS
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me www.linkedin.com/in/mprakash10
 
